@@ -1,0 +1,21 @@
+{
+  "name": "line-observer",
+  "version": "0.0.0--development",
+  "description": "A line-by-line file parser",
+  "main": "index.js",
+  "module": "modules/index.js",
+  "author": "Tim Roberts <timiroberts@gmail.com>",
+  "license": "MIT",
+  "keywords": [
+    "reactive",
+    "line-by-line",
+    "by-line",
+    "byline",
+    "large-files",
+    "observable"
+  ],
+  "dependencies": {
+    "@std/esm": "^0.10.0",
+    "rxjs": "^5.4.3"
+  }
+}
