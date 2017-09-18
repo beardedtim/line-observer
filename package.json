@@ -1,7 +1,7 @@
 {
   "name": "line-observer",
-  "version": "0.0.0--development",
-  "description": "A line-by-line file parser",
+  "version": "0.0.1",
+  "description": "A line-by-line file parser. And then a few helpers",
   "main": "index.js",
   "module": "modules/index.js",
   "author": "Tim Roberts <timiroberts@gmail.com>",
