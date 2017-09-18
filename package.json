@@ -1,6 +1,6 @@
 {
   "name": "line-observer",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "A line-by-line file parser. And then a few helpers",
   "main": "index.js",
   "module": "modules/index.js",
